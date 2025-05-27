@@ -1,6 +1,9 @@
 # Protein Analysis Dashboard
 
 This Streamlit web application provides interactive tools for exploring protein data, divided into two main sections: **Peptide Group Analysis** and **Deep Mutational Scanning (DMS)** Analysis.
+## Live Demo
+Experience the dashboard yourself:
+🚀 [Protein Analysis Dashboard](https://insmed-dashboard-9wbthinrkdbtsafdnkxdkp.streamlit.app/)
 
 ## Features
 
